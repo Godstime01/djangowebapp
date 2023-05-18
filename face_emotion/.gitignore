@@ -1,5 +1,4 @@
 db.sqlite3
 venv
-manage.py
 main/migrations
 main/__pycache__
